@@ -1,2 +1,2 @@
 # This is project's README file
-### replace me with important infrmation
+### replace me with important information
